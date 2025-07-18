@@ -167,7 +167,7 @@ const Navbar = () => {
   ];
 
   return (
-    <section className="py-4 ">
+    <section className="py-4 z-50 backdrop-blur-3xl">
       <div className="container mx-auto ">
         <nav className="flex items-center justify-between">
           <Link href="/" className="flex items-center gap-2">
